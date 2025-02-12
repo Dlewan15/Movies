@@ -4,5 +4,5 @@ Project ‘Movies’ explores factors that influence movies ranking over time. A
 1.	Cleaning and transforming of the data and initial analysis were done in Python, the code is available in the file
 2.	The cleaned dataset is available as  final_clean_movies(2).csv
 3.	Visualization of the data was done in PowerBI, to see the dashboard please go to Movies_project.pbix
-4.	
+   
 
